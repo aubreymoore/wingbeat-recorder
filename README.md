@@ -3,7 +3,9 @@
 ### Recommended installation method
 
 To install uv on Raspbian:
-```wget -qO- https://astral.sh/uv/install.sh | sh```
+```
+wget -qO- https://astral.sh/uv/install.sh | sh
+```
 
 Assuming that you have ``uv``, ``git``, and ``VS Code`` installed:
 
